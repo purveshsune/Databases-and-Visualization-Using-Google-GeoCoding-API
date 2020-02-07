@@ -1,5 +1,5 @@
 # Databases-and-Visualization
-In this proect I used the Google GeoCoding API to retrieve data and then use Google Maps to visualize the data.
+In this project I used the Google GeoCoding API to retrieve data and then use Google Maps to visualize the data.
 
 Retrieving GEOData
 
